@@ -244,7 +244,7 @@ sections:
           **Hanson Deck,** *App Developer, Studio*
         image: images/Ryan.jpg
         image_alt: Hanson Deck
-        image_position: left
+        image_position: top
         image_width: twenty-five
       - content: >-
           Been super impressed with developer talks of the Event Conf. Great
