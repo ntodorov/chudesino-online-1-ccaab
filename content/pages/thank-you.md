@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Благодарим за интереса!
-    subtitle: Моля изпратете емайл с вашите данни и пакета който желаете да поръчате
+    subtitle: Скоро нашия екип ще се свърже със вас.
     actions:
       - label: Изпрати емайл
         style: link
