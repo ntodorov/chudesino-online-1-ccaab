@@ -1,24 +1,6 @@
 ---
 title: Цени и Пакети
 sections:
-  - title: Маринела Арабаджиева
-    subtitle: преподавател
-    content: "\U0001F9D2 Майка на две прекрасни дъщери;\n\n\U0001F9D2 Висше музикално образование- свири на акордеон, пиано, синтезатор;\n\n\U0001F9D2 Педагог- 9 г. е работила като учител по музика в детска градина и в училище;\n\n\U0001F9D2 Диплом-хореограф на български народни танци;\n\n\U0001F9D2 Удостоверение от Българската федерация по йога „Преподаване на детска йога”;\n\n\U0001F9D2 Лична практика по йога и медитации 9 години;\n\n\U0001F9D2 Собственик на парти агенция „Чудесино”;\n\n\U0001F9D2 Организатор на множество благотворителни проекти и празници за болни деца и сираци – „Моят РД” и др.;\n\n\U0001F9D2 Един от създателите и преподавателите на първата офлайн Детска програма на рускоезичното пространство гр.Москва, Русия, февруари 2020 г.;\n\n\U0001F9D2 Един от създателите и преподавателите на първата онлайн Детска програма на рускоезичното пространство август- септември 2020 г.;\n"
-    actions: []
-    image_alt: lorem-ipsum
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/marinela-arabadjieva.jpg
   - type: features_section
     title: Watch Favorite Talks From Past Events
     subtitle: '2020'
