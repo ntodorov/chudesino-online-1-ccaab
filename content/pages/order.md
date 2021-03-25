@@ -3,17 +3,15 @@ sections:
   - title: Поръчка
     subtitle: вашата
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Чудесено решение!
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      Вашето дете заслужава преживяването и знанията от курса "Стани
+      Супергерой!"
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Моля попълнете вашите данни и изберете подходящия за вас пакет.
     content_align: left
     form_position: bottom
     form_width: fifty
