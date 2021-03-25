@@ -106,7 +106,7 @@ sections:
     background_color: primary
     background_image_opacity: 50
   - title: Преподавател
-    subtitle: lorem-ipsum
+    subtitle: и изключителен експерт
     content: >-
       ## Lorem ipsum
 
