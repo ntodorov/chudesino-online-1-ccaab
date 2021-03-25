@@ -1,5 +1,5 @@
 ---
-title: '"ЧУДЕСИНО" онлайн школа за деца'
+title: Цени и Пакети
 sections:
   - type: hero_section
     title: Стани Супергерой!
