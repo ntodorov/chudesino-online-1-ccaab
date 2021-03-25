@@ -50,7 +50,7 @@ sections:
         name: package
       - input_type: textarea
         label: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: B
         options: []
         is_required: false
         type: form_field
