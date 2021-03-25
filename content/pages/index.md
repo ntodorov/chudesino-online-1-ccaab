@@ -379,11 +379,12 @@ sections:
     grid_items:
       - title: 'Каква трябва да е стаята, където ще се провеждат уроците?'
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Желателно е стаята да е светла, комфортна и просторна. Всички играчки,
+          предмети да бъдат прибрани и телевизорът да е изключен.Така нищо отвън
+          няма да отвлича вниманието на детето. Препоръчително е всеки път да
+          сте на едно място. Предварително разположете наблизо това, което ще е
+          необходимо за урока.
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
