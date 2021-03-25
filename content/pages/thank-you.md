@@ -46,7 +46,6 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: lorem-ipsum
         label: Имена
         options: []
         is_required: false
