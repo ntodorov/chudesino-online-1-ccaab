@@ -1,5 +1,4 @@
 ---
-title: Thank You
 sections:
   - type: hero_section
     title: Благодарим за интереса!
