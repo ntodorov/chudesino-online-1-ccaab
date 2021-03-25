@@ -3,7 +3,9 @@ title: '"ЧУДЕСИНО" онлайн школа за деца'
 sections:
   - type: hero_section
     title: Стани Супергерой!
-    subtitle: Онлайн школа за деца
+    subtitle: >-
+      как да получим от живота всичко, което искаме по системата на семената на
+      Геше Майкъл Роуч.
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
