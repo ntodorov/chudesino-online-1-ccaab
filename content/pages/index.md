@@ -51,7 +51,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: Едно страхотно преживяване!
+    title: Какво ще получите?Едно страхотно преживяване!
     features:
       - content: |
           Всеки родител иска детето му да е успешно и щастливо! 
