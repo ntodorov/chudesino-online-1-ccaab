@@ -105,7 +105,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image_opacity: 50
-  - title: lorem-ipsum
+  - title: Преподавател
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
