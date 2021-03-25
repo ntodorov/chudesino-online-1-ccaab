@@ -303,7 +303,7 @@ sections:
           *   Смайл медитация-аудио запис.
         content_align: left
         actions:
-          - label: Поръчай
+          - label: Избери
             url: /thank-you
             style: primary
         actions_align: left
