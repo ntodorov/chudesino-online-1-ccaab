@@ -422,7 +422,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Стартираща цена - 49 лв. Промоцията свършва скоро!
+    title: Стартираща цена - 49 лв! Промоцията свършва скоро...
     actions:
       - label: Регистрация
         url: /thank-you
