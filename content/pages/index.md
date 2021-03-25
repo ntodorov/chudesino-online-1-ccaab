@@ -397,11 +397,15 @@ sections:
         content_align: left
       - title: По кое време на деня е по-добре да се занимаваме?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Може да се каже, че до обяд детето е по-фокусирано и по-спокойно,
+          защото съзнанието му  е отпочинало от впечатленията на миналия ден. Но
+          все пак универсален отговор няма- всичко зависи от дневния режим на
+          Вашето дете и от Вашия собственграфик. През седмицата родителите
+          обикновено са на работа, затова ние сме подбрали възможно най-ранно
+          вечерно време за нашите онлайн срещи. Ако то не е подходящо, Вие ще
+          имате на разположение урока. Така ще може да се занимавате  в удобен
+          за Вас ден и час, когато детето Ви е най-концентрирано и активно.
         content_align: left
       - title: What payment types do you accept?
         title_align: left
