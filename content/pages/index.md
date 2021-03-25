@@ -51,7 +51,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: Едно страхотно преживяване
+    title: Едно страхотно преживяване!
     features:
       - content: >-
           Event is a responsive theme for online events, meetups, conferences
