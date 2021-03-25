@@ -87,7 +87,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: Стартираща цена -
+    title: Стартираща цена - 49лв!
     actions:
       - label: Get tickets
         url: /thank-you
