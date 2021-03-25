@@ -60,7 +60,6 @@ sections:
       - input_type: select
         name: lorem-ipsum
         label: lorem-ipsum
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
