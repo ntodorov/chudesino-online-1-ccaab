@@ -92,7 +92,7 @@ sections:
         actions:
           - url: /order
             style: primary
-            label: И
+            label: Избери
         actions_align: left
         actions_width: full-width
     grid_cols: three
