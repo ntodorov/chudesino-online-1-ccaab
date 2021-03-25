@@ -281,7 +281,7 @@ sections:
         content: |
           ***
 
-          ### ~~70 ~~ <p style="color:red">49 лв.</p>
+          ### ~~70 лв.~~ <p style="color:red">49 лв.</p>
 
           Watch only access for Base Camp track
 
