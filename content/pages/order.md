@@ -47,7 +47,6 @@ sections:
         is_required: false
         type: form_field
         name: package
-        default_value: Титан Супергерой
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
