@@ -48,7 +48,7 @@ sections:
       - input_type: text
         label: Имена
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: client
       - input_type: email
