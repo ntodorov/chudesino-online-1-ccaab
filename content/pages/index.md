@@ -358,7 +358,7 @@ sections:
     background_image: images/pricing-background.jpg
     background_image_opacity: 10
   - type: grid_section
-    title: Frequently Asked Questions
+    title: Често Задавани Въпроси
     subtitle: Our vision
     grid_items:
       - title: How can I get to the venue?
