@@ -388,11 +388,12 @@ sections:
         content_align: left
       - title: 'Колко често да се занимаваме с детето, за да е максимално ефективно?'
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          Нашите онлайн уроци са построени по такъв начин, че Вие два пъти
+          седмично да се занимавате съвместно с детето си и един път да
+          затвърдите новия материал под ръководството на педагога. Според нас
+          това е най-добрият вариант децата да привикнат към уроците и успешно
+          да усвояват новите знания и навици.
         content_align: left
       - title: Can I get a refund on my tickets?
         title_align: left
