@@ -1,24 +1,6 @@
 ---
 title: Цени и Пакети
 sections:
-  - type: hero_section
-    title: Стани Супергерой!
-    subtitle: "Основен курс „Стани Супергерой!” или\_как да получим от живота всичко, което искаме по системата на семената на Геше Майкъл Роуч."
-    content: |
-      ****
-    actions:
-      - label: Регистрирай се сега!
-        url: '/#Цени и Пакети'
-        style: primary
-    align: center
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image_opacity: 15
-    background_image_size: cover
-    image: images/2-supergeroi.svg
-    image_alt: Деца Супергерои
-    media_position: top
   - type: grid_section
     grid_items:
       - title: 2 Days
