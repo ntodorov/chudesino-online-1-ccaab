@@ -20,7 +20,8 @@
             },
             {
                 "label": "Регистрация",
-                "style": "primary"
+                "style": "primary",
+                "url": "prices"
             }
         ],
         "has_anncmnt": false
