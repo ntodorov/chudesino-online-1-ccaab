@@ -2,18 +2,6 @@
 title: Цени и Пакети
 sections:
   - type: features_section
-    title: Едно страхотно изграждащо преживяване!
-    features:
-      - content: |
-          Всеки родител иска детето му да е успешно и щастливо! 
-        align: center
-    feature_padding_vert: medium
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
-    subtitle: Какво ще получите?
-  - type: features_section
     features:
       - title: За какво става дума?
         content: "Основен курс „Стани Супергерой!” или как да получим от живота всичко, което искаме по\_системата на семената на Геше Майкъл Роуч.\n\nТози курс ще Ви помогне да научите\_от ранно детство своето дете:\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)самостоятелно да управлява своя живот\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да стане Супергерой и да развие своите суперспособности\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)как да достига своите Мечти с помощта на 100% работеща „Рецепта за щастие”\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да бъде абсолютно щастливо и да помога на другите също да са щастливи\n"
