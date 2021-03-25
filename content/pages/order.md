@@ -21,7 +21,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        label: Имена
+        label: Име на Родител
         options: []
         is_required: true
         type: form_field
