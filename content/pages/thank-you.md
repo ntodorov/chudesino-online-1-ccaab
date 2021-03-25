@@ -62,6 +62,7 @@ sections:
         label: Пакет
         options:
           - Супергерой
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
