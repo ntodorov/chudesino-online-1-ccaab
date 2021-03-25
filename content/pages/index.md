@@ -333,7 +333,7 @@ sections:
           *   Самостоятелно йога занятие.
         content_align: left
         actions:
-          - label: Поръчай
+          - label: Избери
             url: /thank-you
             style: primary
         actions_align: left
