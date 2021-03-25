@@ -1,7 +1,7 @@
 ---
 sections:
   - title: Поръчка
-    subtitle: lorem-ipsum
+    subtitle: вашата
     title_align: left
     content: >-
       ## Lorem ipsum
