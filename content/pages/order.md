@@ -44,6 +44,7 @@ sections:
           - Супергерой
           - Макси Супергерой
           - Титан Супергерой
+          - lorem-ipsum
         is_required: true
         type: form_field
         name: package
