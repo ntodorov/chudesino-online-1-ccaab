@@ -18,6 +18,7 @@ sections:
     background_image_size: cover
     image: images/2-supergeroi.svg
     image_alt: Деца Супергерои
+    media_position: top
   - type: grid_section
     grid_items:
       - title: 2 Days
