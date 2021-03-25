@@ -409,11 +409,10 @@ sections:
         content_align: left
       - title: Колко време ще можем да ползваме материалите на курса?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          За да Ви създадем максимален комфорт в преминаването и усвояването на
+          знанията, ние Ви правим подарък. Курсът ще бъде в рамките на един
+          календарен месец, но Вие ще имате достъп до записите още един месец!
         content_align: left
     grid_cols: two
     grid_gap_horiz: medium
