@@ -120,6 +120,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
+    enable_cards: true
   - type: features_section
     title: Watch Favorite Talks From Past Events
     subtitle: '2020'
