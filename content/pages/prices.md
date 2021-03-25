@@ -1,30 +1,6 @@
 ---
 title: Цени и Пакети
 sections:
-  - type: features_section
-    features:
-      - title: За какво става дума?
-        content: "Основен курс „Стани Супергерой!” или как да получим от живота всичко, което искаме по\_системата на семената на Геше Майкъл Роуч.\n\nТози курс ще Ви помогне да научите\_от ранно детство своето дете:\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)самостоятелно да управлява своя живот\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да стане Супергерой и да развие своите суперспособности\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)как да достига своите Мечти с помощта на 100% работеща „Рецепта за щастие”\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да бъде абсолютно щастливо и да помога на другите също да са щастливи\n"
-        image: images/Kids Boys And Girls Wearing Superheroes Costumes.svg
-        image_alt: Feature 1 placeholder image
-        media_position: right
-        media_width: sixty
-      - title: За кого е този курс?
-        content: "Курсът е създаден за съвместно преминаване на деца и родители!\n\n\U0001F9D2 за деца 5-7 години\n\n\U0001F9D2 за родители\n\n\U0001F9D2 за учители\n"
-        image: images/family-techers.svg
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: sixty
-      - title: Какъв резултат ще получите?
-        content: "#### Децата:\n\n\U0001F9D2 Ще разберат на „техния език” как работи светът по основния закон „Каквото посееш - такова ще пожънеш!” и защо трябва да бъдат добри към другите хора.\n\n\U0001F9D2 Ще се запознаят в прекрасна игрова форма с основните инструменти на системата.\_\n\n\U0001F9D2 Ще получат технология от 4 Стъпки, с които могат да достигат желаните цели.\n\n\U0001F9D2 Ще създадат план за достигане на Мечтата си.\n\n\U0001F9D2 Ще изучат кратка Смайл медитация, ускоряваща получаването на резултатите. Един нов навик за развитие\_на търпението, увереността и способността да се концентрират върху една задача.\n\n\U0001F9D2 Сертификат\n\n#### Възрастните:\n\n\U0001F9D2 Родителите ще развият съпричастност към желанията на своите деца в съвместните игри. Ще\_научат малчуганите си на отговорност, че всеки на 100% отговаря за това,което се случва в живота му.\n\n\U0001F9D2 Педагозите ще получат нова програма с гарантирано работещи инструменти за ранно детско развитие.\n"
-        image: images/results-familly.svg
-        image_alt: Feature 3 placeholder image
-        media_position: right
-        media_width: sixty
-    feature_padding_vert: large
-    align: center
-    padding_top: none
-    background_color: none
   - type: cta_section
     title: Стартираща цена - 49лв!
     actions:
