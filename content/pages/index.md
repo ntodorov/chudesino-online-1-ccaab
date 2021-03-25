@@ -65,10 +65,7 @@ sections:
   - type: features_section
     features:
       - title: За каво става дума?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        content: "Основен курс „Стани Супергерой!” или как да получим от живота всичко, което искаме по\_системата на семената на Геше Майкъл Роуч.\n\nВсеки родител иска детето му да е успешно и щастливо! Този курс ще Ви помогне да научите\_от ранно детство своето дете:\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)самостоятелно да управлява своя живот\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да стане Супергерой и да развие своите суперспособности\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)как да достига своите Мечти с помощта на 100% работеща „Рецепта за щастие”\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да бъде абсолютно щастливо и да помога на другите също да са щастливи\n"
         image: images/Kids Boys And Girls Wearing Superheroes Costumes.svg
         image_alt: Feature 1 placeholder image
         media_position: right
