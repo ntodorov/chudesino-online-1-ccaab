@@ -120,7 +120,7 @@ sections:
         image: images/avatar_1.jpg
         image_alt: Speaker 1 photo
         image_position: left
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
