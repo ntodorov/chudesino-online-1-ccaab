@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: Вашата Поръчка
+  - title: Регистрация за "Стани Супергерой!"
     title_align: left
     content: >
       #### Чудесно решение!
