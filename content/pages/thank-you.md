@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Благодарим за интереса!
-    subtitle: Thank you for testing the Event theme!
+    subtitle: Моля изпратете емайл с вашите данни и пакета който желаете да поръчате
     actions:
       - label: Back to homepage
         url: /
