@@ -109,7 +109,7 @@ sections:
     title: Преподавател
     subtitle: Експерт
     grid_items:
-      - title: Eric Widget
+      - title: Маринела Арабаджиева
         subtitle: 'React Awesome, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
