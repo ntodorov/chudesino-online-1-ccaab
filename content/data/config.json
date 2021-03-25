@@ -19,11 +19,6 @@
                 "style": "link"
             },
             {
-                "label": "Sponsorship",
-                "url": "/sponsorship",
-                "style": "link"
-            },
-            {
                 "label": "Регистрация",
                 "url": "thank-you",
                 "style": "primary"
