@@ -89,7 +89,7 @@ sections:
   - type: cta_section
     title: Стартираща цена - 49лв!
     actions:
-      - label: Get tickets
+      - label: Избери пакет
         url: /thank-you
         style: primary
         has_icon: true
