@@ -313,12 +313,21 @@ sections:
 
           ### ~~140 лв.~~ <p style="color:red">98 лв</p>
 
-          Watch Only access to Summit & Base Camp Tracks
+          *Всичко от Супергерой, плюс:*
 
-          *   Conference Stickers
-          *   Technology discussion rooms
-          *   Elementum eu rhoncus, volutpat
-          *   Fringilla diam magnis libero lacinia
+          *   Две групови онлайн йога занятия.
+
+          <!---->
+
+          *   Изписване на личен план „4 стъпки” за достигане на Мечтата.
+
+          <!---->
+
+          *   Две сесии „Въпроси и отговори”.
+
+          <!---->
+
+          *   Смайл медитация-аудио запис.
         content_align: left
         actions:
           - label: Registration
