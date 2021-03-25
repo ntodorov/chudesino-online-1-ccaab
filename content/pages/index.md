@@ -120,17 +120,6 @@ sections:
         image: images/avatar_1.jpg
         image_alt: Speaker 1 photo
         image_position: top
-      - title: Indigo Violet
-        subtitle: 'Microsoft, USA'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
-        image: images/avatar_3.jpg
-        image_alt: Speaker 3 photo
-        image_position: top
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
