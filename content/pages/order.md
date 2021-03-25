@@ -54,6 +54,7 @@ sections:
         type: form_field
         name: notes
         default_value: Нека поговорим - място за вашите въпроси към екипа.
+        label: Въпроси?
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
