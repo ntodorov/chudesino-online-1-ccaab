@@ -90,7 +90,7 @@ sections:
           *   Самостоятелно йога занятие.
         content_align: left
         actions:
-          - label: Поръчай
+          - label: иребзИ
             url: /order
             style: primary
         actions_align: left
