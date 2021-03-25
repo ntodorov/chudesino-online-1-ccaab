@@ -418,7 +418,7 @@ sections:
   - type: cta_section
     title: Стартираща цена - 49 лв. Промоцията свършва скоро!
     actions:
-      - label: Get tickets
+      - label: Регистрация
         url: /thank-you
         style: primary
         has_icon: true
