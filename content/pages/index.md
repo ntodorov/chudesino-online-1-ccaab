@@ -9,7 +9,7 @@ sections:
       - label: Регистрирай се сега!
         url: /about
         style: primary
-    align: left
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: primary
