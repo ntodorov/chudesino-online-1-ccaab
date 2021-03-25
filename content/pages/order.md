@@ -49,7 +49,6 @@ sections:
         type: form_field
         name: package
       - input_type: textarea
-        name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
