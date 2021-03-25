@@ -5,12 +5,6 @@ sections:
     title: Благодарим за интереса!
     subtitle: Моля изпратете емайл с вашите данни и пакета който желаете да поръчате
     actions:
-      - label: Back to homepage
-        url: /
-        style: secondary
-        has_icon: true
-        icon: arrow-left
-        icon_position: left
       - label: Изпрати емайл
         url: '#'
         style: primary
@@ -20,6 +14,12 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: Back to homepage
+        url: /
+        style: secondary
+        has_icon: true
+        icon: arrow-left
+        icon_position: left
     align: center
     padding_bottom: large
     background_color: none
