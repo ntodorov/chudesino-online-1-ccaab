@@ -11,7 +11,7 @@ sections:
         has_icon: true
         icon: arrow-left
         icon_position: left
-      - label: И
+      - label: Изпрати емайл
         url: '#'
         style: link
         has_icon: false
