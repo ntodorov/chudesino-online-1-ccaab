@@ -67,7 +67,7 @@ sections:
         type: form_field
         name: package
         default_value: Титан Супергерой
-    submit_label: lorem-ipsum
+    submit_label: Изпрати
     align_vert: top
     padding_top: medium
     padding_bottom: medium
