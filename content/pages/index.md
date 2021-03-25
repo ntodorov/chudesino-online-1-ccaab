@@ -276,7 +276,7 @@ sections:
     subtitle: Pass for the event
     grid_items:
       - title: Супергерой
-        subtitle: April 14
+        subtitle: 'За всички, без обратна връзка.'
         title_align: left
         content: |
           ***
