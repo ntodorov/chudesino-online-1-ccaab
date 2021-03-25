@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Обратно към курса
         url: /
-        style: secondary
+        style: primary
         has_icon: true
         icon: arrow-left
         icon_position: left
