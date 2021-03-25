@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "\"ЧУДЕСИНО\" онлайн школа за деца",
-        "logo": "images/logo.svg",
+        "logo": "images/enthusiastic-broccoli.svg",
         "logo_alt": "Чудесино",
         "has_primary_nav": false,
         "has_secondary_nav": true,
