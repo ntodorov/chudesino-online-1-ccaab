@@ -278,15 +278,16 @@ sections:
       - title: Супергерой
         subtitle: April 14
         title_align: left
-        content: |-
-          ---
-          ### Free
+        content: |
+          ***
+
+          ### 70 49 лв.
 
           Watch only access for Base Camp track
 
-          * Conference Stickers
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
+          *   Conference Stickers
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
         content_align: left
         actions:
           - label: Registration
