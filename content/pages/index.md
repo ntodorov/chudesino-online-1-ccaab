@@ -308,7 +308,7 @@ sections:
 
 
           **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.jpg
+        image: images/Klim.jpg
         image_alt: Eleanor Carr
         image_position: top
         image_width: twenty-five
