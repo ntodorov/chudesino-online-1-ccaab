@@ -6,7 +6,6 @@ sections:
     subtitle: Моля изпратете емайл с вашите данни и пакета който желаете да поръчате
     actions:
       - label: Изпрати емайл
-        url: '#'
         style: primary
         has_icon: false
         icon: arrow-left
