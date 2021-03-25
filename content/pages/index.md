@@ -386,7 +386,7 @@ sections:
           сте на едно място. Предварително разположете наблизо това, което ще е
           необходимо за урока.
         content_align: left
-      - title: What about accommodation for attendees?
+      - title: 'Колко често да се занимаваме с детето, за да е максимално ефективно?'
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
