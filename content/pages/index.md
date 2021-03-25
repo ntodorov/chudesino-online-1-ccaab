@@ -2,7 +2,7 @@
 title: '"ЧУДЕСИНО" онлайн школа за деца'
 sections:
   - type: hero_section
-    title: ЧУДЕСИНО
+    title: Стани Супергерой!
     subtitle: Онлайн школа за деца
     content: '**April 14 - 16, 2021**'
     actions:
