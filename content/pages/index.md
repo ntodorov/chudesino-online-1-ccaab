@@ -294,7 +294,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Summit ticket
+      - title: Макси Супергерой
         subtitle: April 14 - 15
         title_align: left
         content: |-
