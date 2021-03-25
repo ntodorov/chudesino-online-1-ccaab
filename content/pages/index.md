@@ -8,7 +8,7 @@ sections:
       ****
     actions:
       - label: Регистрирай се сега!
-        url: '/#Цени и Пакети'
+        url: /
         style: primary
     align: center
     padding_top: large
