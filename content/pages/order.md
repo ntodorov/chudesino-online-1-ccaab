@@ -48,7 +48,7 @@ sections:
         is_required: true
         type: form_field
         name: package
-        default_value: ' '
+        default_value: <
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
