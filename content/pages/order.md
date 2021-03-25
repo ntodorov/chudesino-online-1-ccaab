@@ -22,7 +22,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: registration
-    form_action: lorem-ipsum
+    form_action: submit
     form_fields:
       - input_type: text
         label: Име на Родител
