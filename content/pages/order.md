@@ -44,7 +44,7 @@ sections:
           - Супергерой
           - Макси Супергерой
           - Титан Супергерой
-          - null
+          - <избери пакет>
         is_required: true
         type: form_field
         name: package
