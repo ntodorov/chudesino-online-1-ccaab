@@ -322,7 +322,7 @@ sections:
         content: |
           ***
 
-          ### 280 196 лв.
+          ### ~~280~~ 196 лв.
 
           HD quality for Base camp and Summit tracks
 
