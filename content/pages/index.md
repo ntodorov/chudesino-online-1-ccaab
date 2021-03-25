@@ -8,7 +8,7 @@ sections:
       Геше Майкъл Роуч.
     content: '**April 14 - 16, 2021**'
     actions:
-      - label: Get Your Ticket Today!
+      - label: Регистрирай се сега!
         url: /about
         style: primary
     align: center
