@@ -43,7 +43,6 @@ sections:
         name: package
         default_value: Титан Супергерой
       - input_type: text
-        name: lorem-ipsum
         label: Име на детето (бъдещия Супергерой)
         options: []
         is_required: false
