@@ -53,9 +53,8 @@ sections:
   - type: features_section
     title: Едно страхотно преживяване!
     features:
-      - content: >-
-          Event is a responsive theme for online events, meetups, conferences
-          and webinars from Stackbit.
+      - content: |
+          Всеки родител иска детето му да е успешно и щастливо! 
         align: center
     feature_padding_vert: medium
     align: center
