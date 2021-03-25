@@ -343,13 +343,21 @@ sections:
 
           ### ~~280 лв.~~ <p style="color:red"> 196 лв. </p>
 
-          HD quality for Base camp and Summit tracks
+          *Всичко от Макси Супергерой, плюс:*
 
-          *   Interactive sessions with speakers
-          *   Conference Stickers & more sent to your home
-          *   Q\&A with speakers
-          *   Certificates on Workshops
-          *   Technology discussion rooms
+          *   Мини ръководство „Корелации по Мечтите”.
+
+          <!---->
+
+          *   Една лична сесия „Въпроси и отговори”.
+
+          <!---->
+
+          *   Индивидуална консултация с екперта.
+
+          <!---->
+
+          *   Самостоятелно йога занятие.
         content_align: left
         actions:
           - label: Order Now
