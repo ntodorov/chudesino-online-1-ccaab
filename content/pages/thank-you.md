@@ -14,7 +14,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Back to homepage
+      - label: Обратно към курса
         url: /
         style: secondary
         has_icon: true
