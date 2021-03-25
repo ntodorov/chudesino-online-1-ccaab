@@ -106,7 +106,7 @@ sections:
     background_color: primary
     background_image_opacity: 50
   - type: grid_section
-    title: Speakers & Instructors
+    title: Преподавател
     subtitle: Експерт
     grid_items:
       - title: Eric Widget
