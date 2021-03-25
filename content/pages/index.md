@@ -279,7 +279,7 @@ sections:
 
 
           **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.jpg
+        image: images/Milena.jpg
         image_alt: Miles Tone
         image_position: top
         image_width: twenty-five
