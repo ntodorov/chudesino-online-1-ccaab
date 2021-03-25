@@ -65,6 +65,7 @@ sections:
           - Титан Супергерой
         is_required: false
         type: form_field
+        name: pa
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
