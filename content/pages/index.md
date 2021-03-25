@@ -301,7 +301,7 @@ sections:
         content: |
           ***
 
-          ### ~~140~~ 98 лв
+          ### ~~140~~ <p style="color:red">98 лв
 
           Watch Only access to Summit & Base Camp Tracks
 
