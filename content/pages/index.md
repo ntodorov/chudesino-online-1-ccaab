@@ -71,10 +71,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: За кого е този курс?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: "Курсът е създаден за съвместно преминаване на деца и родители!\n\n\U0001F9D2 за деца 5-7 години\n\n\U0001F9D2 за родители\n\n\U0001F9D2 за учители\n"
         image: images/family-techers.svg
         image_alt: Feature 2 placeholder image
         media_position: left
