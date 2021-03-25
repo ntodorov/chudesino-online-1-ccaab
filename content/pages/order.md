@@ -42,6 +42,13 @@ sections:
         type: form_field
         name: package
         default_value: Титан Супергерой
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
