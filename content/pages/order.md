@@ -44,7 +44,7 @@ sections:
           - Супергерой
           - Макси Супергерой
           - Титан Супергерой
-        is_required: false
+        is_required: true
         type: form_field
         name: package
     submit_label: Изпрати
