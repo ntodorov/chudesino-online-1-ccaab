@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: Поръчка
+  - title: Вашата Поръчка
     title_align: left
     content: >
       #### Чудесно решение!
