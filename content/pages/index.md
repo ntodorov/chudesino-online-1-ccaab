@@ -336,7 +336,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Титан Супергерой
-        subtitle: April 14 - 16
+        subtitle: 'За всички, които искат личен наставник'
         title_align: left
         content: |
           ***
