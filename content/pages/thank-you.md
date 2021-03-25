@@ -11,7 +11,7 @@ sections:
         has_icon: true
         icon: arrow-left
         icon_position: left
-      - label: lorem-ipsum
+      - label: И
         url: '#'
         style: link
         has_icon: false
