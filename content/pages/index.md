@@ -2,7 +2,7 @@
 title: '"ЧУДЕСИНО" онлайн школа за деца'
 sections:
   - type: hero_section
-    title: Inspire. Create. Build.
+    title: ЧУДЕСИНО
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
