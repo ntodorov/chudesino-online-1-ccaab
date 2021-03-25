@@ -275,7 +275,7 @@ sections:
     title: Цени и Пакети
     subtitle: Pass for the event
     grid_items:
-      - title: Base Camp Ticket
+      - title: Супергерой
         subtitle: April 14
         title_align: left
         content: |-
