@@ -52,7 +52,7 @@ sections:
         type: form_field
         name: client
       - input_type: email
-        name: lorem-ipsum
+        name: email
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
