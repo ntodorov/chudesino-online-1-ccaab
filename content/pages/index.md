@@ -395,7 +395,7 @@ sections:
           това е най-добрият вариант децата да привикнат към уроците и успешно
           да усвояват новите знания и навици.
         content_align: left
-      - title: Can I get a refund on my tickets?
+      - title: По кое време на деня е по-добре да се занимаваме?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
