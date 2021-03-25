@@ -234,7 +234,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Отзиви
-    subtitle: Previous event attendees
+    subtitle: завършили Суперерой
     grid_items:
       - content: >
           Завърших със сина си онлайн програмата по 10-те етични принципи,
