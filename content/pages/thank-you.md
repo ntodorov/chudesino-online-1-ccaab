@@ -61,7 +61,7 @@ sections:
         name: lorem-ipsum
         label: lorem-ipsum
         options:
-          - lorem-ipsum
+          - Супергерой
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
