@@ -28,7 +28,7 @@ sections:
         name: client
       - input_type: email
         name: email
-        label: email
+        label: e-mail
         options: []
         is_required: true
         type: form_field
