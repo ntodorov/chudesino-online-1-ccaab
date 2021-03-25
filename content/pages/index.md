@@ -59,7 +59,7 @@ sections:
     title: Стартираща цена - 49лв!
     actions:
       - label: Избери пакет
-        url: /thank-you
+        url: /
         style: primary
         has_icon: true
         icon: arrow-right
