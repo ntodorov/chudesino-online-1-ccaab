@@ -51,7 +51,7 @@ sections:
         is_required: false
         type: form_field
         name: client
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
