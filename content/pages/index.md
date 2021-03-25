@@ -407,7 +407,7 @@ sections:
           имате на разположение урока. Така ще може да се занимавате  в удобен
           за Вас ден и час, когато детето Ви е най-концентрирано и активно.
         content_align: left
-      - title: What payment types do you accept?
+      - title: Колко време ще можем да ползваме материалите на курса?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
