@@ -62,7 +62,7 @@ sections:
         label: Пакет
         options:
           - Супергерой
-          - Макс
+          - Макси Супергерой
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
