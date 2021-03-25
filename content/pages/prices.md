@@ -90,8 +90,7 @@ sections:
           *   Самостоятелно йога занятие.
         content_align: left
         actions:
-          - label: иребазИ
-            url: /order
+          - url: /order
             style: primary
         actions_align: left
         actions_width: full-width
