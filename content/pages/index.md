@@ -274,7 +274,7 @@ sections:
         content_align: left
         actions:
           - label: Избери
-            url: /thank-you
+            url: /
             style: primary
         actions_align: left
         actions_width: full-width
