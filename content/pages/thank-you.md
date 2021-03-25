@@ -5,15 +5,6 @@ sections:
     title: Благодарим за интереса!
     subtitle: Скоро нашия екип ще се свърже със вас.
     actions:
-      - label: Изпрати емайл
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: true
-        type: action
-        url: 'mailto:chudesino@abv.bg'
       - label: Обратно към курса
         url: /
         style: secondary
