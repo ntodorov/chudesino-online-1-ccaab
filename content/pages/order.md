@@ -41,10 +41,10 @@ sections:
       - input_type: select
         label: Пакет
         options:
+          - <избери пакет>
           - Супергерой
           - Макси Супергерой
           - Титан Супергерой
-          - <избери пакет>
         is_required: true
         type: form_field
         name: package
