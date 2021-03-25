@@ -32,6 +32,12 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: text
+        label: Име на детето (бъдещия Супергерой)
+        options: []
+        is_required: false
+        type: form_field
+        name: kid
       - input_type: select
         label: Пакет
         options:
@@ -42,12 +48,6 @@ sections:
         type: form_field
         name: package
         default_value: Титан Супергерой
-      - input_type: text
-        label: Име на детето (бъдещия Супергерой)
-        options: []
-        is_required: false
-        type: form_field
-        name: kid
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
