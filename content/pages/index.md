@@ -233,7 +233,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - type: grid_section
-    title: What People are Saying
+    title: Отзиви
     subtitle: Previous event attendees
     grid_items:
       - content: >
