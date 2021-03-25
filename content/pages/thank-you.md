@@ -59,7 +59,7 @@ sections:
         type: form_field
       - input_type: select
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Пакет
         options:
           - Супергерой
         is_required: false
