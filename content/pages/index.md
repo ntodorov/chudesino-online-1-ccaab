@@ -1,5 +1,5 @@
 ---
-title: Home
+title: '"ЧУДЕСИНО" онлайн школа за деца'
 sections:
   - type: hero_section
     title: Inspire. Create. Build.
