@@ -49,7 +49,6 @@ sections:
         type: form_field
         name: package
       - input_type: textarea
-        label: Бъ
         options: []
         is_required: false
         type: form_field
