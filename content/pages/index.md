@@ -234,7 +234,7 @@ sections:
     background_color: secondary
   - type: grid_section
     title: Отзиви
-    subtitle: завършили Суперерой
+    subtitle: от завършили Супергерои
     grid_items:
       - content: >
           Завърших със сина си онлайн програмата по 10-те етични принципи,
