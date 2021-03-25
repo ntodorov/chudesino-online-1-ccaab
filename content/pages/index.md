@@ -283,11 +283,21 @@ sections:
 
           ### ~~70 лв.~~ <p style="color:red">49 лв.</p>
 
-          Watch only access for Base Camp track
+          За всички, без обратна връзка.
 
-          *   Conference Stickers
-          *   Quisque eleifend imperdiet tortor
-          *   Elementum eu rhoncus, volutpat
+          *   Достъп до 8 урока.
+
+          <!---->
+
+          *   Достъп до 4 домашни работи.
+
+          <!---->
+
+          *   Достъп до чат в Телеграм.
+
+          <!---->
+
+          *   Две групови онлайн срещи на Смайл медитация
         content_align: left
         actions:
           - label: Registration
