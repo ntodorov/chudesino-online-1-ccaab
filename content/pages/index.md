@@ -281,7 +281,7 @@ sections:
           **Miles Tone,** *CEO, Studio*
         image: images/miles-tone.jpg
         image_alt: Miles Tone
-        image_position: left
+        image_position: top
         image_width: twenty-five
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
