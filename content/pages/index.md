@@ -360,7 +360,7 @@ sections:
           *   Самостоятелно йога занятие.
         content_align: left
         actions:
-          - label: Избери Сега!
+          - label: Поръчай
             url: /thank-you
             style: primary
         actions_align: left
