@@ -13,7 +13,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: 'mailto:'
+        url: 'mailto:chudesino@abv.bg '
       - label: Обратно към курса
         url: /
         style: secondary
