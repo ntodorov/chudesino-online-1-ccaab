@@ -63,7 +63,7 @@ sections:
         options:
           - Супергерой
           - Макси Супергерой
-          - lorem-ipsum
+          - Титан Супергерой
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
