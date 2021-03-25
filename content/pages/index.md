@@ -306,7 +306,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Макси Супергерой
-        subtitle: April 14 - 15
+        subtitle: 'За всички, които са решени да работят по тази методика.'
         title_align: left
         content: |
           ***
