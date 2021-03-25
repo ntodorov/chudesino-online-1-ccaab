@@ -273,7 +273,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Цени и Пакети
-    subtitle: Pass for the event
+    subtitle: Промоционални
     grid_items:
       - title: Супергерой
         subtitle: 'За всички, без обратна връзка.'
