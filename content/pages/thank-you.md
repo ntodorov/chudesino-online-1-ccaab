@@ -58,7 +58,6 @@ sections:
         is_required: true
         type: form_field
       - input_type: select
-        name: lorem-ipsum
         label: Пакет
         options:
           - Супергерой
