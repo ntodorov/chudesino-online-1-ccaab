@@ -54,7 +54,7 @@ sections:
         is_required: false
         type: form_field
         name: notes
-        default_value: Въпроси към екипа
+        default_value: Вашите въпроси към екипа
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
