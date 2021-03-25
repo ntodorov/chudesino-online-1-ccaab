@@ -14,7 +14,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About",
+                "label": "За Нас",
                 "url": "/about",
                 "style": "link"
             },
