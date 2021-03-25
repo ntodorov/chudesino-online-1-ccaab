@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: lorem-ipsum
+  - title: Поръчка
     subtitle: lorem-ipsum
     title_align: left
     content: >-
