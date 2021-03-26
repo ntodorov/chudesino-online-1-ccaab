@@ -491,7 +491,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: '"ЧУДЕСИНО" онлайн школа за деца'
     - name: 'twitter:description'
       value: >-
         Основен курс „Стани Супергерой!” или как да получим от живота всичко,
