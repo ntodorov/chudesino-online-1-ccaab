@@ -246,7 +246,7 @@ sections:
 
 
           **Майка Екатерина Лазутина и дете Мария Афанасиева**, *Русия*
-        image: images/Klim.jpg
+        image: images/Maria.jpg
         image_alt: Eleanor Carr
         image_position: top
         image_width: twenty-five
