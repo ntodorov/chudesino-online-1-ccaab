@@ -95,7 +95,7 @@ sections:
 
           **Урок 8** - „Аз-Супергероят!” - реални примери как да получим
           желаното!
-        image: images/Kids Boys And Girls Wearing Superheroes Costumes.svg
+        image: images/program1.svg
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: sixty
