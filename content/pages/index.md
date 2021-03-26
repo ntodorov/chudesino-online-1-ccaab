@@ -455,7 +455,7 @@ sections:
     title: Стартираща цена - 49 лв! Промоцията свършва скоро...
     actions:
       - label: Регистрация
-        url: /thank-you
+        url: /prices
         style: primary
         has_icon: true
         icon: arrow-right
