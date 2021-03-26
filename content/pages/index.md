@@ -241,7 +241,7 @@ sections:
           
           
           **Майка Ирина Яннаева и дете София Яннаева**, *Русия*
-        image_alt: lorem-ipsum
+        image_alt: Майка Ирина Яннаева и дете София Яннаева
         image_position: top
         image_width: fifty
         image_align: left
