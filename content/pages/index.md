@@ -228,17 +228,7 @@ sections:
         image_position: top
         image_width: twenty-five
       - title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Дъщеря ми много хареса Детската програма! Ние обсъждахме наученото. Тя се интересуваше как аз си водя дневника.\n\nНие говорим на един език!\_\_\_\_\_\n\nВиждам желанието ѝ да се променя самата тя. София разказва на роднините и приятелите си за получените знания.\n\nТя много се радва на нейните очевидни резултати! Дъщеря ми забелязва защо нещо се случва по един или друг начин и как това е резултат от нейните минали действия!\n\n**Майка Ирина Яннаева и дете София Яннаева**, *Русия*\n"
         content_align: left
         actions: []
         actions_align: left
