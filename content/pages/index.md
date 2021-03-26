@@ -495,7 +495,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: /images/2-supergeroi.svg
       relativeUrl: true
 layout: advanced
 ---
