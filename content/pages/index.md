@@ -233,7 +233,7 @@ sections:
 
 
           **Майка Светлана Сороухина и дете Милолика Солоухина**, *Русия*
-        image: images/Klim.jpg
+        image: images/Milolika.jpg
         image_alt: Eleanor Carr
         image_position: top
         image_width: twenty-five
