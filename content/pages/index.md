@@ -158,16 +158,17 @@ sections:
       Собственик на парти агенция „Чудесино”;
 
 
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
       Организатор на множество благотворителни проекти и празници за болни деца
       и сираци – „Моят РД” и др.;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
       Един от създателите и преподавателите на първата офлайн Детска програма на
       рускоезичното пространство гр.Москва, Русия, февруари 2020 г.;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
       Един от създателите и преподавателите на първата онлайн Детска програма на
       рускоезичното пространство август- септември 2020 г.;
     actions: []
