@@ -483,7 +483,7 @@ seo:
       value: The preview of the Event theme
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: /images/2-supergeroi.svg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
