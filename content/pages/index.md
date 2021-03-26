@@ -40,7 +40,20 @@ sections:
         media_position: right
         media_width: sixty
       - title: За кого е този курс?
-        content: "Курсът е създаден за съвместно преминаване на деца и родители!\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) за деца 5-7 години\n\n\U0001F9D2 за родители\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) за учители\n"
+        content: >
+          Курсът е създаден за съвместно преминаване на деца и родители!
+
+
+          ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+          за деца 5-7 години
+
+
+          ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+          за родители
+
+
+          ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+          за учители
         image: images/family-techers.svg
         image_alt: Feature 2 placeholder image
         media_position: left
