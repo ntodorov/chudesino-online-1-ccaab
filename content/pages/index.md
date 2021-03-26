@@ -244,7 +244,6 @@ sections:
         image_alt: Майка Ирина Яннаева и дете София Яннаева
         image_position: top
         image_width: fifty
-        type: grid_item
         image: images/Sofia.jpg
     grid_cols: four
     grid_gap_horiz: medium
