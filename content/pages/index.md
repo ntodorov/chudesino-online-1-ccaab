@@ -468,7 +468,7 @@ sections:
     background_color: primary
     background_image_opacity: 50
 seo:
-  title: Stackbit Event Theme
+  title: '"ЧУДЕСИНО" онлайн школа за деца'
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
