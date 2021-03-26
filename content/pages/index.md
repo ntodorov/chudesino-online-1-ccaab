@@ -97,7 +97,7 @@ sections:
           желаното!
         image: images/Kids Boys And Girls Wearing Superheroes Costumes.svg
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: left
         media_width: sixty
         align: right
       - title: График
