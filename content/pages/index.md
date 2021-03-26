@@ -469,7 +469,9 @@ sections:
     background_image_opacity: 50
 seo:
   title: '"ЧУДЕСИНО" онлайн школа за деца'
-  description: The preview of the Event theme
+  description: >-
+    Основен курс „Стани Супергерой!” или как да получим от живота всичко, което
+    искаме по системата на семената на Геше Майкъл Роуч.
   extra:
     - name: 'og:type'
       value: website
