@@ -68,7 +68,8 @@ sections:
         image: images/results-familly.svg
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: sixtyfeature_padding_vert: large
+        media_width: sixty
+    feature_padding_vert: large
     align: center
     padding_top: none
     background_color: none
