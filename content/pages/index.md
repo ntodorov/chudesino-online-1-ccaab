@@ -477,7 +477,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: '"ЧУДЕСИНО" онлайн школа за деца'
       keyName: property
     - name: 'og:description'
       value: The preview of the Event theme
