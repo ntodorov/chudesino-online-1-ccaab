@@ -127,7 +127,49 @@ sections:
     background_image_opacity: 50
   - title: Маринела Арабаджиева
     subtitle: преподавател
-    content: "![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Майка на две прекрасни дъщери;\n\n\U0001F9D2 Висше музикално образование- свири на акордеон, пиано, синтезатор;\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Педагог- 9 г. е работила като учител по музика в детска градина и в училище;\n\n\U0001F9D2 Диплом-хореограф на български народни танци;\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Удостоверение от Българската федерация по йога „Преподаване на детска йога”;\n\n\U0001F9D2 Лична практика по йога и медитации 9 години;\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Собственик на парти агенция „Чудесино”;\n\n Организатор на множество благотворителни проекти и празници за болни деца и сираци – „Моят РД” и др.;\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Един от създателите и преподавателите на първата офлайн Детска програма на рускоезичното пространство гр.Москва, Русия, февруари 2020 г.;\n\n\U0001F9D2 Един от създателите и преподавателите на първата онлайн Детска програма на рускоезичното пространство август- септември 2020 г.;\n"
+    content: >
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      Майка на две прекрасни дъщери;
+
+
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      Висше музикално образование- свири на акордеон, пиано, синтезатор;
+
+
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      Педагог- 9 г. е работила като учител по музика в детска градина и в
+      училище;
+
+
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      Диплом-хореограф на български народни танци;
+
+
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      Удостоверение от Българската федерация по йога „Преподаване на детска
+      йога”;
+
+
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      Лична практика по йога и медитации 9 години;
+
+
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      Собственик на парти агенция „Чудесино”;
+
+
+      Организатор на множество благотворителни проекти и празници за болни деца
+      и сираци – „Моят РД” и др.;
+
+
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      Един от създателите и преподавателите на първата офлайн Детска програма на
+      рускоезичното пространство гр.Москва, Русия, февруари 2020 г.;
+
+
+      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      Един от създателите и преподавателите на първата онлайн Детска програма на
+      рускоезичното пространство август- септември 2020 г.;
     actions: []
     image_alt: lorem-ipsum
     media_position: top
