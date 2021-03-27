@@ -30,7 +30,6 @@ sections:
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    subtitle: Какво ще получите?
   - type: features_section
     features:
       - title: За какво става дума?
