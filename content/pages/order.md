@@ -59,6 +59,13 @@ sections:
         name: notes
         default_value: Нека поговорим - място за вашите въпроси към екипа.
         label: Въпроси?
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
