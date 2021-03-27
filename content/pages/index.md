@@ -20,7 +20,7 @@ sections:
     image_alt: Деца Супергерои
     media_position: top
   - type: features_section
-    title: Едно страхотно изграждащо преживяване!
+    title: Готови ли сте за едно чудесно и изграьдащо преживяване!
     features:
       - content: |
           Всеки родител иска детето му да е успешно и щастливо! 
