@@ -196,11 +196,6 @@ sections:
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
           it on the web within a month.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: sixty
     feature_padding_vert: large
