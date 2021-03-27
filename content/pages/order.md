@@ -62,7 +62,7 @@ sections:
       - input_type: tel
         label: Телефон / GSM
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: phone
     submit_label: Изпрати
