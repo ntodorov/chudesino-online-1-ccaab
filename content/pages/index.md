@@ -369,7 +369,9 @@ sections:
 
           *   Две групови онлайн срещи на Смайл медитация
 
-          
+
+
+          .
         content_align: left
         actions:
           - label: Избери
