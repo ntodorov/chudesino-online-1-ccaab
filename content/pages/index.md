@@ -119,7 +119,7 @@ sections:
     padding_bottom: small
     background_color: primary
     background_image_opacity: 50
-    has_border: true
+    has_border: false
   - title: Маринела Арабаджиева
     subtitle: преподавател
     content: >
