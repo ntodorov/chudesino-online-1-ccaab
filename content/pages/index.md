@@ -23,7 +23,7 @@ sections:
     title: Готови ли сте за едно чудесно и изграждащо преживяване?
     features:
       - content: |
-          Всеки родител иска детето му да е успешно и щастливо! 
+          #### Всеки родител иска детето му да е успешно и щастливо!
         align: center
     feature_padding_vert: medium
     align: center
