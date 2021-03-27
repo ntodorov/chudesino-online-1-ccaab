@@ -36,6 +36,12 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: tel
+        label: Телефон / GSM
+        options: []
+        is_required: true
+        type: form_field
+        name: phone
       - input_type: text
         label: Име на детето (бъдещия Супергерой)
         options: []
@@ -59,12 +65,6 @@ sections:
         name: notes
         default_value: Нека поговорим - място за вашите въпроси към екипа.
         label: Въпроси?
-      - input_type: tel
-        label: Телефон / GSM
-        options: []
-        is_required: true
-        type: form_field
-        name: phone
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
