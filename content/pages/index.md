@@ -198,6 +198,12 @@ sections:
           it on the web within a month.
         media_position: right
         media_width: sixty
+        video_embed_html: >-
+          <iframe width="560" height="315"
+          src="https://www.youtube-nocookie.com/embed/eFYA-wn26c0"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture" allowfullscreen></iframe>
     feature_padding_vert: large
     align: center
     padding_top: large
