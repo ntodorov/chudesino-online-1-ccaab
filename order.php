@@ -14,7 +14,7 @@ if (!empty($_POST)) {
         $package = $_POST['package'];
         $notes = $_POST['notes'];
 
-       $toEmail = 'ntodorov@gmail.com';
+       $toEmail = 'chudesino@abv.bg';
         $emailSubject = 'Нова поръчка от Чудесино';
 
         $body = "Родител: {$client} \r\n Email: {$email} \r\n Телефон: {$phone} \r\n Дете: {$kid} \r\n Пакет: {$package} \r\n Въпроси: \r\n" . $notes;
