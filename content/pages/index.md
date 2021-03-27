@@ -188,7 +188,7 @@ sections:
     type: hero_section
     image: images/marinela-arabadjieva.jpg
   - type: features_section
-    title: Watch Favorite Talks From Past Events
+    title: Моменти от предишни курсове
     subtitle: '2020'
     features:
       - title: Стани Супергерой - Москва
