@@ -186,7 +186,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/marinela-arabadjieva.jpg
+    image: images/photo_2021-03-26 18.21.32.jpeg
   - type: features_section
     title: Моменти от предишни курсове
     features:
