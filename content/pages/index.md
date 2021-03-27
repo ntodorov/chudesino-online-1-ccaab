@@ -189,7 +189,6 @@ sections:
     image: images/marinela-arabadjieva.jpg
   - type: features_section
     title: Моменти от предишни курсове
-    subtitle: '2020'
     features:
       - title: Стани Супергерой - Москва
         media_position: right
