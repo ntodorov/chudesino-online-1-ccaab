@@ -65,7 +65,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        name: Телефон
+        name: phone
     submit_label: Изпрати
     align_vert: top
     padding_top: medium
