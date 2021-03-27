@@ -192,10 +192,6 @@ sections:
     subtitle: '2020'
     features:
       - title: Стани Супергерой - Москва
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
         media_position: right
         media_width: sixty
         video_embed_html: >-
