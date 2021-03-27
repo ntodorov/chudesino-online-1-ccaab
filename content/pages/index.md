@@ -349,9 +349,7 @@ sections:
         content: |
           ***
 
-          ### ~~70 лв.~~ 
-
-          <p style="color:red">49 лв.</p>
+          ### ~~70 лв.~~ <p style="color:red">49 лв.</p>
 
 
 
