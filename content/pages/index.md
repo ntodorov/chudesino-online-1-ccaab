@@ -115,7 +115,7 @@ sections:
     actions_position: right
     actions_width: fourty
     align: left
-    padding_top: small
+    padding_top: medium
     padding_bottom: large
     background_color: primary
     background_image_opacity: 50
