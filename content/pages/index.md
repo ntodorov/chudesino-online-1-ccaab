@@ -174,7 +174,7 @@ sections:
       рускоезичното пространство август- септември 2020 г.;
     actions: []
     image_alt: lorem-ipsum
-    media_position: left
+    media_position: right
     media_width: fifty
     align: left
     padding_top: medium
