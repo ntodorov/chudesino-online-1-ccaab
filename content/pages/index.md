@@ -16,7 +16,7 @@ sections:
     background_color: primary
     background_image_opacity: 15
     background_image_size: cover
-    image: images/chudesino-logo.png
+    image: images/2-supergeroi.svg
     image_alt: Деца Супергерои
     media_position: top
   - type: features_section
