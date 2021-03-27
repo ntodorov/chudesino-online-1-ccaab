@@ -61,7 +61,6 @@ sections:
         label: Въпроси?
       - input_type: tel
         label: Телефон / GSM
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
