@@ -60,7 +60,7 @@ sections:
         default_value: Нека поговорим - място за вашите въпроси към екипа.
         label: Въпроси?
       - input_type: tel
-        name: lorem-ipsum
+        name: Tele
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
