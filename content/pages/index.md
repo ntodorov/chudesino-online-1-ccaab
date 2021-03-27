@@ -16,7 +16,7 @@ sections:
     background_color: primary
     background_image_opacity: 15
     background_image_size: cover
-    image: images/2-supergeroi.svg
+    image: images/chudesino-logo.png
     image_alt: Деца Супергерои
     media_position: top
   - type: features_section
@@ -40,20 +40,14 @@ sections:
         media_position: right
         media_width: sixty
       - title: За кого е този курс?
-        content: >
+        content: |
           Курсът е създаден за съвместно преминаване на деца и родители!
 
+          ![](/images/supergeroi3-head-mini-2.svg) за деца 5-7 години
 
-          ![](/images/supergeroi3-head-mini-2.svg)
-          за деца 5-7 години
+          ![](/images/boy-head-mini.svg) за родители
 
-
-          ![](/images/boy-head-mini.svg)
-          за родители
-
-
-          ![](/images/supergeroi3-head-mini-2.svg)
-          за учители
+          ![](/images/supergeroi3-head-mini-2.svg) за учители
         image: images/family-techers.svg
         image_alt: Feature 2 placeholder image
         media_position: left
@@ -129,49 +123,45 @@ sections:
   - title: Маринела Арабаджиева
     subtitle: преподавател
     content: >
-      ![](/images/supergeroi3-head-mini-2.svg)
-      Майка на две прекрасни дъщери;
+      ![](/images/supergeroi3-head-mini-2.svg) Майка на две прекрасни дъщери;
 
 
-      ![](/images/boy-head-mini.svg)
-      Висше музикално образование- свири на акордеон, пиано, синтезатор;
+      ![](/images/boy-head-mini.svg) Висше музикално образование- свири на
+      акордеон, пиано, синтезатор;
 
 
-      ![](/images/supergeroi3-head-mini-2.svg)
-      Педагог- 9 г. е работила като учител по музика в детска градина и в
-      училище;
+      ![](/images/supergeroi3-head-mini-2.svg) Педагог- 9 г. е работила като
+      учител по музика в детска градина и в училище;
 
 
-      ![](/images/boy-head-mini.svg)
-      Диплом-хореограф на български народни танци;
+      ![](/images/boy-head-mini.svg) Диплом-хореограф на български народни
+      танци;
 
 
-      ![](/images/supergeroi3-head-mini-2.svg)
-      Удостоверение от Българската федерация по йога „Преподаване на детска
-      йога”;
+      ![](/images/supergeroi3-head-mini-2.svg) Удостоверение от Българската
+      федерация по йога „Преподаване на детска йога”;
 
 
-      ![](/images/boy-head-mini.svg)
-      Лична практика по йога и медитации 9 години;
+      ![](/images/boy-head-mini.svg) Лична практика по йога и медитации 9
+      години;
 
 
-      ![](/images/supergeroi3-head-mini-2.svg)
-      Собственик на парти агенция „Чудесино”;
+      ![](/images/supergeroi3-head-mini-2.svg) Собственик на парти агенция
+      „Чудесино”;
 
 
-      ![](/images/boy-head-mini.svg)
-      Организатор на множество благотворителни проекти и празници за болни деца
-      и сираци – „Моят РД” и др.;
+      ![](/images/boy-head-mini.svg) Организатор на множество благотворителни
+      проекти и празници за болни деца и сираци – „Моят РД” и др.;
 
 
-      ![](/images/supergeroi3-head-mini-2.svg)
-      Един от създателите и преподавателите на първата офлайн Детска програма на
-      рускоезичното пространство гр.Москва, Русия, февруари 2020 г.;
+      ![](/images/supergeroi3-head-mini-2.svg) Един от създателите и
+      преподавателите на първата офлайн Детска програма на рускоезичното
+      пространство гр.Москва, Русия, февруари 2020 г.;
 
 
-      ![](/images/boy-head-mini.svg)
-      Един от създателите и преподавателите на първата онлайн Детска програма на
-      рускоезичното пространство август- септември 2020 г.;
+      ![](/images/boy-head-mini.svg) Един от създателите и преподавателите на
+      първата онлайн Детска програма на рускоезичното пространство август-
+      септември 2020 г.;
     actions: []
     image_alt: lorem-ipsum
     media_position: top
