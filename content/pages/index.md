@@ -34,7 +34,7 @@ sections:
   - type: features_section
     features:
       - title: За какво става дума?
-        content: "Основен курс „Стани Супергерой!” или как да получим от живота всичко, което искаме по\_системата на семената на Геше Майкъл Роуч.![](/images/supergeroi3-head-mini-2.svg)\n\n![](/images/boy-head-mini.svg)Този курс ще Ви помогне да научите\_от ранно детство своето дете:\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)самостоятелно да управлява своя живот\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да стане Супергерой и да развие своите суперспособности\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)как да достига своите Мечти с помощта на 100% работеща „Рецепта за щастие”\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да бъде абсолютно щастливо и да помога на другите също да са щастливи\n"
+        content: "Основен курс „Стани Супергерой!” или как да получим от живота всичко, което искаме по\_системата на семената на Геше Майкъл Роуч.![](/images/supergeroi3-head-mini-2.svg)\n\n![](/images/boy-head-mini.svg)Този курс ще Ви помогне да научите\_от ранно детство своето дете:\n\n![](/images/supergeroi3-head-mini-2.svg)самостоятелно да управлява своя живот\n\n![](/images/fabulous-anemone.svg)как да стане Супергерой и да развие своите суперспособности\n\n![](/images/supergeroi3-head-mini-2.svg)как да достига своите Мечти с помощта на 100% работеща „Рецепта за щастие”\n\n![](/images/fabulous-anemone.svg)как да бъде абсолютно щастливо и да помога на другите също да са щастливи\n"
         image: images/dyga.svg
         image_alt: Feature 1 placeholder image
         media_position: right
@@ -44,22 +44,22 @@ sections:
           Курсът е създаден за съвместно преминаване на деца и родители!
 
 
-          ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+          ![](/images/supergeroi3-head-mini-2.svg)
           за деца 5-7 години
 
 
-          ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+          ![](/images/fabulous-anemone.svg)
           за родители
 
 
-          ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+          ![](/images/supergeroi3-head-mini-2.svg)
           за учители
         image: images/family-techers.svg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
       - title: Какъв резултат ще получите?
-        content: "#### Децата:\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Ще разберат на „техния език” как работи светът по основния закон „Каквото посееш - такова ще пожънеш!” и защо трябва да бъдат добри към другите хора.\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg) Ще се запознаят в прекрасна игрова форма с основните инструменти на системата.\_\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Ще получат технология от 4 Стъпки, с които могат да достигат желаните цели.\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg) Ще създадат план за достигане на Мечтата си.\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Ще изучат кратка Смайл медитация, ускоряваща получаването на резултатите. Един нов навик за развитие\_на търпението, увереността и способността да се концентрират върху една задача.\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg) Сертификат\n\n#### Възрастните:\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg) Родителите ще развият съпричастност към желанията на своите деца в съвместните игри. Ще\_научат малчуганите си на отговорност, че всеки на 100% отговаря за това,което се случва в живота му.\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg) Педагозите ще получат нова програма с гарантирано работещи инструменти за ранно детско развитие.\n"
+        content: "#### Децата:\n\n![](/images/supergeroi3-head-mini-2.svg) Ще разберат на „техния език” как работи светът по основния закон „Каквото посееш - такова ще пожънеш!” и защо трябва да бъдат добри към другите хора.\n\n![](/images/fabulous-anemone.svg) Ще се запознаят в прекрасна игрова форма с основните инструменти на системата.\_\n\n![](/images/supergeroi3-head-mini-2.svg) Ще получат технология от 4 Стъпки, с които могат да достигат желаните цели.\n\n![](/images/fabulous-anemone.svg) Ще създадат план за достигане на Мечтата си.\n\n![](/images/supergeroi3-head-mini-2.svg) Ще изучат кратка Смайл медитация, ускоряваща получаването на резултатите. Един нов навик за развитие\_на търпението, увереността и способността да се концентрират върху една задача.\n\n![](/images/fabulous-anemone.svg) Сертификат\n\n#### Възрастните:\n\n![](/images/supergeroi3-head-mini-2.svg) Родителите ще развият съпричастност към желанията на своите деца в съвместните игри. Ще\_научат малчуганите си на отговорност, че всеки на 100% отговаря за това,което се случва в живота му.\n\n![](/images/fabulous-anemone.svg) Педагозите ще получат нова програма с гарантирано работещи инструменти за ранно детско развитие.\n"
         image: images/family1.svg
         image_alt: Feature 3 placeholder image
         media_position: right
@@ -129,47 +129,47 @@ sections:
   - title: Маринела Арабаджиева
     subtitle: преподавател
     content: >
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      ![](/images/supergeroi3-head-mini-2.svg)
       Майка на две прекрасни дъщери;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      ![](/images/fabulous-anemone.svg)
       Висше музикално образование- свири на акордеон, пиано, синтезатор;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      ![](/images/supergeroi3-head-mini-2.svg)
       Педагог- 9 г. е работила като учител по музика в детска градина и в
       училище;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      ![](/images/fabulous-anemone.svg)
       Диплом-хореограф на български народни танци;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      ![](/images/supergeroi3-head-mini-2.svg)
       Удостоверение от Българската федерация по йога „Преподаване на детска
       йога”;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      ![](/images/fabulous-anemone.svg)
       Лична практика по йога и медитации 9 години;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      ![](/images/supergeroi3-head-mini-2.svg)
       Собственик на парти агенция „Чудесино”;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      ![](/images/fabulous-anemone.svg)
       Организатор на множество благотворителни проекти и празници за болни деца
       и сираци – „Моят РД” и др.;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)
+      ![](/images/supergeroi3-head-mini-2.svg)
       Един от създателите и преподавателите на първата офлайн Детска програма на
       рускоезичното пространство гр.Москва, Русия, февруари 2020 г.;
 
 
-      ![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)
+      ![](/images/fabulous-anemone.svg)
       Един от създателите и преподавателите на първата онлайн Детска програма на
       рускоезичното пространство август- септември 2020 г.;
     actions: []
