@@ -351,7 +351,7 @@ sections:
 
           ### ~~70 лв.~~ 
 
-          <p style="color:red">49 лв.</п>
+          <p style="color:red">49 лв.</>
 
 
 
