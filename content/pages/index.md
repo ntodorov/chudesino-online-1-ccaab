@@ -116,7 +116,7 @@ sections:
     actions_width: fourty
     align: left
     padding_top: medium
-    padding_bottom: large
+    padding_bottom: medium
     background_color: primary
     background_image_opacity: 50
   - title: Маринела Арабаджиева
