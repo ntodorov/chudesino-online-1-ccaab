@@ -191,7 +191,7 @@ sections:
     title: Watch Favorite Talks From Past Events
     subtitle: '2020'
     features:
-      - title: Fast tracks Iconic Nike campaign with the JAMstack
+      - title: Стани Супергерой - Москва
         content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
