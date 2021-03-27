@@ -22,7 +22,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: registration
-    form_action: order
+    form_action: order.php
     form_fields:
       - input_type: text
         label: Име на Родител
