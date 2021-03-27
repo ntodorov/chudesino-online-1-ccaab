@@ -13,42 +13,90 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 15
     background_image_size: cover
     image: images/2-supergeroi.svg
     image_alt: Деца Супергерои
     media_position: top
   - type: features_section
-    title: Едно страхотно изграждащо преживяване!
+    title: Готови ли сте за едно чудесно и изграждащо преживяване?
     features:
       - content: |
-          Всеки родител иска детето му да е успешно и щастливо! 
+          #### Всеки родител иска детето му да е успешно и щастливо!
         align: center
     feature_padding_vert: medium
     align: center
     padding_top: medium
     padding_bottom: medium
     background_color: none
-    subtitle: Какво ще получите?
   - type: features_section
     features:
       - title: За какво става дума?
-        content: "Основен курс „Стани Супергерой!” или как да получим от живота всичко, което искаме по\_системата на семената на Геше Майкъл Роуч.\n\nТози курс ще Ви помогне да научите\_от ранно детство своето дете:\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)самостоятелно да управлява своя живот\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да стане Супергерой и да развие своите суперспособности\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/supergeroi3-head-mini-2.svg)как да достига своите Мечти с помощта на 100% работеща „Рецепта за щастие”\n\n![](https://preview--wonderful-owl-bcb8b.stackbit.dev/images/fabulous-anemone.svg)как да бъде абсолютно щастливо и да помога на другите също да са щастливи\n"
-        image: images/Kids Boys And Girls Wearing Superheroes Costumes.svg
+        content: "Основен курс „Стани Супергерой!” или как да получим от живота всичко, което искаме по\_системата на семената на Геше Майкъл Роуч.!\n\nТози курс ще Ви помогне да научите\_от ранно детство своето дете:\n\n![](/images/supergeroi3-head-mini-2.svg)самостоятелно да управлява своя живот\n\n![](/images/boy-head-mini.svg)как да стане Супергерой и да развие своите суперспособности\n\n![](/images/supergeroi3-head-mini-2.svg)как да достига своите Мечти с помощта на 100% работеща „Рецепта за щастие”\n\n![](/images/boy-head-mini.svg)как да бъде абсолютно щастливо и да помога на другите също да са щастливи\n"
+        image: images/dyga.svg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
       - title: За кого е този курс?
-        content: "Курсът е създаден за съвместно преминаване на деца и родители!\n\n\U0001F9D2 за деца 5-7 години\n\n\U0001F9D2 за родители\n\n\U0001F9D2 за учители\n"
+        content: |
+          Курсът е създаден за съвместно преминаване на деца и родители!
+
+          ![](/images/supergeroi3-head-mini-2.svg) за деца 5-7 години
+
+          ![](/images/boy-head-mini.svg) за родители
+
+          ![](/images/supergeroi3-head-mini-2.svg) за учители
         image: images/family-techers.svg
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
       - title: Какъв резултат ще получите?
-        content: "#### Децата:\n\n\U0001F9D2 Ще разберат на „техния език” как работи светът по основния закон „Каквото посееш - такова ще пожънеш!” и защо трябва да бъдат добри към другите хора.\n\n\U0001F9D2 Ще се запознаят в прекрасна игрова форма с основните инструменти на системата.\_\n\n\U0001F9D2 Ще получат технология от 4 Стъпки, с които могат да достигат желаните цели.\n\n\U0001F9D2 Ще създадат план за достигане на Мечтата си.\n\n\U0001F9D2 Ще изучат кратка Смайл медитация, ускоряваща получаването на резултатите. Един нов навик за развитие\_на търпението, увереността и способността да се концентрират върху една задача.\n\n\U0001F9D2 Сертификат\n\n#### Възрастните:\n\n\U0001F9D2 Родителите ще развият съпричастност към желанията на своите деца в съвместните игри. Ще\_научат малчуганите си на отговорност, че всеки на 100% отговаря за това,което се случва в живота му.\n\n\U0001F9D2 Педагозите ще получат нова програма с гарантирано работещи инструменти за ранно детско развитие.\n"
-        image: images/results-familly.svg
+        content: "#### Децата:\n\n![](/images/supergeroi3-head-mini-2.svg) Ще разберат на „техния език” как работи светът по основния закон „Каквото посееш - такова ще пожънеш!” и защо трябва да бъдат добри към другите хора.\n\n![](/images/boy-head-mini.svg) Ще се запознаят в прекрасна игрова форма с основните инструменти на системата.\_\n\n![](/images/supergeroi3-head-mini-2.svg) Ще получат технология от 4 Стъпки, с които могат да достигат желаните цели.\n\n![](/images/boy-head-mini.svg) Ще създадат план за достигане на Мечтата си.\n\n![](/images/supergeroi3-head-mini-2.svg) Ще изучат кратка Смайл медитация, ускоряваща получаването на резултатите. Един нов навик за развитие\_на търпението, увереността и способността да се концентрират върху една задача.\n\n![](/images/boy-head-mini.svg) Сертификат\n\n#### Възрастните:\n\n![](/images/supergeroi3-head-mini-2.svg) Родителите ще развият съпричастност към желанията на своите деца в съвместните игри. Ще\_научат малчуганите си на отговорност, че всеки на 100% отговаря за това,което се случва в живота му.\n\n![](/images/boy-head-mini.svg) Педагозите ще получат нова програма с гарантирано работещи инструменти за ранно детско развитие.\n"
+        image: images/family1.svg
         image_alt: Feature 3 placeholder image
+        media_position: right
+        media_width: sixty
+      - title: Програма
+        content: >
+          **Урок 1** - Как да станем Супергерои и да получим от живота всичко,
+          което искаме? Пет цели!
+
+
+          **Урок 2** - Ако нещо работи понякога значи, то не работи въобще!
+          Престанете да правите неща, които не работят винаги!
+
+
+          **Урок 3** - Приказка за Химикала или разбирането на причините и
+          следствията!
+
+
+          **Урок 4** - Светеща картинка и видеокамера, или как работи нашият
+          свят!
+
+
+          **Урок 5** - Четири стъпки - техниката за сбъдване на Мечтите ни!
+
+
+          **Урок 6** - Мастермайнд / деца помагат на деца / - как да съставим
+          план за постигане на Мечтата си!
+
+
+          **Урок 7** - Смайл медитация- супер ускорител за получаване на бързи
+          резултати!
+
+
+          **Урок 8** - „Аз-Супергероят!” - реални примери как да получим
+          желаното!
+        image: images/program1.svg
+        image_alt: Feature 1 placeholder image
+        media_position: left
+        media_width: sixty
+        align: left
+      - title: График
+        content: "###### Срещите ще се провеждат онлай в Zoom, както следва:\_\n\n1.  вторник - 18.30-19.00 ч. / Урок / всяка седмица\n\n2.  петък - 18.30-19.00 ч. / Урок / всяка седмица\n\n3.  сряда - 18.45-19.00 ч.\_ / Смайл медитация / 3 и 4 седмица\n\n4.  събота- 10.00-10.30 ч. /ДР-затвърждаване на материала/ всяка седмица\n\n5.  неделя- 10.00-11.00 ч. / Сесия „Въпроси и отговори”/ 1 и 3 седмица\n\n6.  неделя- 10.00-10.30 ч. / Йога\_ / 2 и 4 седмица\n"
+        image: images/grafik1.svg
+        image_alt: Feature 2 placeholder image
         media_position: right
         media_width: sixty
     feature_padding_vert: large
@@ -67,13 +115,53 @@ sections:
     actions_position: right
     actions_width: fourty
     align: left
-    padding_top: large
-    padding_bottom: large
+    padding_top: medium
+    padding_bottom: small
     background_color: primary
     background_image_opacity: 50
+    has_border: false
   - title: Маринела Арабаджиева
     subtitle: преподавател
-    content: "\U0001F9D2 Майка на две прекрасни дъщери;\n\n\U0001F9D2 Висше музикално образование- свири на акордеон, пиано, синтезатор;\n\n\U0001F9D2 Педагог- 9 г. е работила като учител по музика в детска градина и в училище;\n\n\U0001F9D2 Диплом-хореограф на български народни танци;\n\n\U0001F9D2 Удостоверение от Българската федерация по йога „Преподаване на детска йога”;\n\n\U0001F9D2 Лична практика по йога и медитации 9 години;\n\n\U0001F9D2 Собственик на парти агенция „Чудесино”;\n\n\U0001F9D2 Организатор на множество благотворителни проекти и празници за болни деца и сираци – „Моят РД” и др.;\n\n\U0001F9D2 Един от създателите и преподавателите на първата офлайн Детска програма на рускоезичното пространство гр.Москва, Русия, февруари 2020 г.;\n\n\U0001F9D2 Един от създателите и преподавателите на първата онлайн Детска програма на рускоезичното пространство август- септември 2020 г.;\n"
+    content: >
+      ![](/images/supergeroi3-head-mini-2.svg) Майка на две прекрасни дъщери;
+
+
+      ![](/images/boy-head-mini.svg) Висше музикално образование- свири на
+      акордеон, пиано, синтезатор;
+
+
+      ![](/images/supergeroi3-head-mini-2.svg) Педагог- 9 г. е работила като
+      учител по музика в детска градина и в училище;
+
+
+      ![](/images/boy-head-mini.svg) Диплом-хореограф на български народни
+      танци;
+
+
+      ![](/images/supergeroi3-head-mini-2.svg) Удостоверение от Българската
+      федерация по йога „Преподаване на детска йога”;
+
+
+      ![](/images/boy-head-mini.svg) Лична практика по йога и медитации 9
+      години;
+
+
+      ![](/images/supergeroi3-head-mini-2.svg) Собственик на парти агенция
+      „Чудесино”;
+
+
+      ![](/images/boy-head-mini.svg) Организатор на множество благотворителни
+      проекти и празници за болни деца и сираци – „Моят РД” и др.;
+
+
+      ![](/images/supergeroi3-head-mini-2.svg) Един от създателите и
+      преподавателите на първата офлайн Детска програма на рускоезичното
+      пространство гр.Москва, Русия, февруари 2020 г.;
+
+
+      ![](/images/boy-head-mini.svg) Един от създателите и преподавателите на
+      първата онлайн Детска програма на рускоезичното пространство август-
+      септември 2020 г.;
     actions: []
     image_alt: lorem-ipsum
     media_position: top
@@ -88,35 +176,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/marinela-arabadjieva.jpg
+    image: images/photo_2021-03-26 18.21.32.jpeg
   - type: features_section
-    title: Watch Favorite Talks From Past Events
-    subtitle: '2020'
+    title: Моменти от предишни курсове
     features:
-      - title: Fast tracks Iconic Nike campaign with the JAMstack
-        content: >-
-          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
-          Crazy’ campaign and approached digital agency Matter Supply to launch
-          it on the web within a month.
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/2rA_ucpQ_Fk" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+      - title: Стани Супергерой - Москва
         media_position: right
         media_width: sixty
-      - title: 'Um, its about your JavaScript...'
-        content: >-
-          JAMstack is revolutionising the way we think about workflow by
-          providing a simpler developer experience, better performance, lower
-          cost and greater scalability. From JAMstack WTF
         video_embed_html: >-
           <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/31WieWrYPqc" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
-        media_position: left
-        media_width: sixty
+          src="https://www.youtube-nocookie.com/embed/eFYA-wn26c0"
+          title="YouTube video player" frameborder="0" allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope;
+          picture-in-picture" allowfullscreen></iframe>
     feature_padding_vert: large
     align: center
     padding_top: large
@@ -163,6 +235,11 @@ sections:
         image_alt: Hanson Deck
         image_position: top
         image_width: twenty-five
+      - content: "През лятото на 2020г. завърших със сина си Клим вълнуващата детска програма „ТОП 10 тайни на супергероите”.\n\nИсках да предам на сина си система от знания, която да го научи да\nпостига целите си по екологичен начин, като помага на хората и заедно с това да прави света около\nсебе си по-добър! А не да „лази по нервите” на другите, да устройва скандали „кой е главният в класа” и т.н. Но чувствах, че ми е трудно да предам знанията на детето, защото информацията може да остане\nнеразбрана. Плюс-всички деца наоколо не се държат така, както му подсказвах. И това създаваше трудности да заинтересувам сина си. Обяснението, че това все още е много специално знание за мнозина не го вдъхновяваше. И по чудо се появи онлайн програма по системата на семената за деца.\n\nПрекрасни кратки уроци, на достъпен език, с ярки примери, разбираеми за\nдецата. И което е най-интересното-синът ми видя, че наистина има деца, които изучават тези невероятни знания!\n\nВначалото на програмата Клим си пожела 3 неща:\n\n1.  Да отидем на море( въпреки ,че си мислехме, че тази година няма да ни се получи).\n\n2.  Да се сдобие с x-box ( макар че пари за такива „екстри” ние не предвиждахме).\n\n3.  Добри оценки в училище.\n\nКато резултат:\n\n1.  Две седмици след началото на обучението ние отидохме на море и дори се озовахме на много по-добро място, отколкото планирахме.\n\n2.  След три месеца синът ми получи x-box.\n\n3.  За шест месеца оценките в училище се подобриха и вместо 6-7 започна да носи 8-10 точки. След няколко месеца започнаха да се появяват 11, а наскоро той получи 12 точки за първи път (12 са максималните точки по скалата за оценяване в Украйна)! Учителката каза, че е започнал да се учи добре. И в същото време на него му стана по-лесно да учи!\n\nГолям късмет е, че беше създаден този курс за деца, че имах щастието да науча за него и да го завърша заедно със сина си!\n\nГорещо го препоръчвам! Това е бъдещето на нашите деца, това е възможност за тях да изградят свят от щастливи хора, които живеят във взаимопомощ, взаимна подкрепа! \_\_\n\n**Майка Майя Ходирева и дете Клим Шулипа**, *Украйна*\n"
+        image: images/Klim.jpg
+        image_alt: Eleanor Carr
+        image_position: top
+        image_width: twenty-five
       - content: >
           Невъзможно е накратко да се опишат впечатленията от знанията и
           емоциите, които получиха както децата, така и родителите.
@@ -193,53 +270,71 @@ sections:
         image_position: top
         image_width: twenty-five
       - content: >
-          През лятото на 2020г. завърших със сина си Клим вълнуващата детска
-          програма „ТОП 10 тайни на супергероите”.
+          Дъщеря ми много хареса Детската програма! Ние обсъждахме наученото. Тя
+          се интересуваше как аз си водя дневника.
 
 
-          Исках да предам на сина си система от знания, която да го научи да
-
-          постига целите си по екологичен начин, като помага на хората и заедно
-          с това да прави света около
-
-          себе си по-добър! А не да „лази по нервите” на другите, да устройва
-          скандали „кой е главният в класа” и т.н. Но чувствах, че ми е трудно
-          да предам знанията на детето, защото информацията може да остане
-
-          неразбрана. Плюс-всички деца наоколо не се държат така, както му
-          подсказвах. И това създаваше трудности да заинтересувам сина си.
-          Обяснението, че това все още е много специално знание за мнозина не го
-          вдъхновяваше. И по чудо се появи онлайн програма по системата на
-          семената за деца.
+          Ние говорим на един език!
 
 
-          Прекрасни кратки уроци, на достъпен език, с ярки примери, разбираеми
-          за
-
-          децата. И което е най-интересното-синът ми видя, че наистина има деца,
-          които изучават тези невероятни знания!
+          Виждам желанието ѝ да се променя самата тя. София разказва на
+          роднините и приятелите си за получените знания.
 
 
-          Вначалото на програмата Клим си пожела 3 неща:
+          Тя много се радва на нейните очевидни резултати! Дъщеря ми забелязва
+          защо нещо се случва по един или друг начин и как това е резултат от
+          нейните минали действия!
 
 
-          1.  Да отидем на море( въпреки ,че си мислехме, че тази година няма да
-          ни се получи).
+          **Майка Ирина Яннаева и дете София Яннаева**, *Русия*
+        image_alt: Майка Ирина Яннаева и дете София Яннаева
+        image_position: top
+        image_width: fifty
+        image: images/Sofia.jpg
+      - content: >
+          Бях на прекрасна програма в Москва през февруари 2020г! На мен много
+          ми хареса там! 
 
 
-          2.  Да се сдобие с x-box ( макар че пари за такива „екстри” ние не
-          предвиждахме).
+          По време на програмата научих много нови неща и сега мога да подобря
+          изключително своя живот с помоща  на тези знания.
+
+          И вече го правя! 
 
 
-          3.  Добри оценки в училище.
+          Препоръчвам силно на всички деца и родители да завършат тази програма!
+          Много хора, благодарение  на това ще могат да открият за себе си нови
+          и интересни неща, ще получат нови реализации, променящи към по-добро
+          техния живот! Чувствах подкрепата на преподавателите и участниците в
+          този курс.
 
 
-          **Майка Майя Ходирева и дете Клим Шулипа**, *Украйна*
-        image: images/Klim.jpg
+          Огромно благодаря за сърдечната атмосфера! Общуването беше много топло
+          и сърдечно!
+
+
+          Прегръщам ви!
+
+
+          **Майка Светлана Сороухина и дете Милолика Солоухина**, *Русия*
+        image: images/Milolika.jpg
         image_alt: Eleanor Carr
         image_position: top
         image_width: twenty-five
-    grid_cols: three
+      - content: >
+          Моите резултати-станах по-внимателна и добра към другите. Разбрах
+          по-ясно как работи светът.
+
+
+          Благодаря сърдечно на всички за тази програма!
+
+
+          **Майка Екатерина Лазутина и дете Мария Афанасиева**, *Русия*
+        image: images/Maria.jpg
+        image_alt: Eleanor Carr
+        image_position: top
+        image_width: twenty-five
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
@@ -257,6 +352,7 @@ sections:
           ### ~~70 лв.~~ <p style="color:red">49 лв.</p>
 
 
+          *Стартирай със:*
 
           *   Достъп до 8 урока.
 
@@ -271,6 +367,11 @@ sections:
           <!---->
 
           *   Две групови онлайн срещи на Смайл медитация
+
+
+
+
+          &nbsp;
         content_align: left
         actions:
           - label: Избери
@@ -403,7 +504,7 @@ sections:
     title: Стартираща цена - 49 лв! Промоцията свършва скоро...
     actions:
       - label: Регистрация
-        url: /thank-you
+        url: /prices
         style: primary
         has_icon: true
         icon: arrow-right
@@ -416,30 +517,36 @@ sections:
     background_color: primary
     background_image_opacity: 50
 seo:
-  title: Stackbit Event Theme
-  description: The preview of the Event theme
+  title: '"ЧУДЕСИНО" онлайн школа за деца'
+  description: >-
+    Основен курс „Стани Супергерой!” или как да получим от живота всичко, което
+    искаме по системата на семената на Геше Майкъл Роуч.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: '"ЧУДЕСИНО" онлайн школа за деца'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: >-
+        Основен курс „Стани Супергерой!” или как да получим от живота всичко,
+        което искаме по системата на семената на Геше Майкъл Роуч.
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: /images/2-supergeroi.svg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: '"ЧУДЕСИНО" онлайн школа за деца'
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: >-
+        Основен курс „Стани Супергерой!” или как да получим от живота всичко,
+        което искаме по системата на семената на Геше Майкъл Роуч.
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: /images/2-supergeroi.svg
       relativeUrl: true
 layout: advanced
 ---

@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "\"ЧУДЕСИНО\" онлайн школа за деца",
-        "logo": "images/logo.svg",
+        "logo": "images/chudesino-logo.png",
         "logo_alt": "Чудесино",
         "has_primary_nav": false,
         "has_secondary_nav": true,
@@ -31,7 +31,7 @@
         "has_secondary_nav": false,
         "has_tertiary_nav": false,
         "has_social": false,
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=event&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Чудесино. Всички права запазени. Благодарим на <a href=\"https://www.vecteezy.com/free-vector/vector\">Vector Vectors by Vecteezy</a> за красивите графики. Сайта е създаден с помоща на <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>."
     },
     "domain": "https://chudesino.com"
 }

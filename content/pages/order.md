@@ -20,9 +20,9 @@ sections:
     form_position: bottom
     form_width: fifty
     form_layout: stacked
-    enable_card: false
+    enable_card: true
     form_id: registration
-    form_action: submit
+    form_action: order.php
     form_fields:
       - input_type: text
         label: Име на Родител
@@ -36,6 +36,12 @@ sections:
         options: []
         is_required: true
         type: form_field
+      - input_type: tel
+        label: Телефон / GSM
+        options: []
+        is_required: true
+        type: form_field
+        name: phone
       - input_type: text
         label: Име на детето (бъдещия Супергерой)
         options: []
