@@ -22,7 +22,7 @@ sections:
     form_layout: stacked
     enable_card: true
     form_id: registration
-    form_action: submit
+    form_action: o
     form_fields:
       - input_type: text
         label: Име на Родител
