@@ -1,6 +1,6 @@
 {
     "title": "\"ЧУДЕСИНО\" онлайн школа за деца",
-    "path_prefix": "/online",
+    "path_prefix": "/",
     "layout_type": "boxed",
     "style": "classic",
     "palette": "green",
