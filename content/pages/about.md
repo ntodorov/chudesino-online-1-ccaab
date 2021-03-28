@@ -34,6 +34,6 @@ layout: page
 
 "Затегнете коланите-излитаме!"
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="/images/deca3-medium-2.svg" alt="Sublime's custom image"/>
 </p>
 ![](/images/deca3-medium-2.svg)
