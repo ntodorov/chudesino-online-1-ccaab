@@ -36,4 +36,4 @@ layout: page
 <p align="center">
   <img src="/images/deca3-medium-2.svg" alt="rocket boy"/>
 </p>
-![](/images/deca3-medium-2.svg)
+
