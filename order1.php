@@ -15,14 +15,12 @@ if (!empty($_POST)) {
         $notes = $_POST['notes'];
 
        $toEmail = 'chudesino@abv.bg';
-      // $toEmail = 'nt@mail.bg';
-        $emailSubject = 'Chudesino - new order';
+        $emailSubject = 'Нова поръчка от Чудесино';
 
-        $headers = "Content-Type: text/html; charset=utf-8";
-        $body = "<html>Родител: {$client} \r\n <br/> Email: {$email} \r\n <br/>Телефон: {$phone} \r\n<br/>  Дете: {$kid} \r\n<br/>  Пакет: {$package} \r\n <br/> Въпроси: \r\n<br/> " . $notes ."</html>";
+        $body = "Родител: {$client} \r\n Email: {$email} \r\n Телефон: {$phone} \r\n Дете: {$kid} \r\n Пакет: {$package} \r\n Въпроси: \r\n" . $notes;
 
 //echo $body 
-        if (mail($toEmail, $emailSubject, $body, $headers)) {
+        if (mail($toEmail, $emailSubject, $body)) {
             header('Location: https://online.chudesino.com/thank-you');
         } else {
             $errorMessage = 'Oops, something went wrong. Please try again later';
@@ -41,7 +39,7 @@ if (!empty($_POST)) {
   </head>
   <body>
     <h4>Благодарим ви! Вашето съобщение беше изпратено успешно.</h4>
-    <a href="https://online.chudesino.com">Кликнете тук</a> за да се върнете на
-    началната страница.
+    <a href="https://online.chudesino.com">Кликнете тук</a> за да се върнете на началната страница.
   </body>
 </html>
+
