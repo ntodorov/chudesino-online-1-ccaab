@@ -34,4 +34,4 @@ layout: page
 
 "Затегнете коланите-излитаме!"
 
-![](/images/deca3.svg)
+![](/images/deca3-medium-2.svg)
