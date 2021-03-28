@@ -33,5 +33,7 @@ layout: page
 Ще се докоснете до нови уникални принципи, които ще трансформират живота Ви завинаги!
 
 "Затегнете коланите-излитаме!"
-
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 ![](/images/deca3-medium-2.svg)
