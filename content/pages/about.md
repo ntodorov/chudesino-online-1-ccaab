@@ -34,6 +34,6 @@ layout: page
 
 "Затегнете коланите-излитаме!"
 <p align="center">
-  <img src="/images/deca3-medium-2.svg" alt="Sublime's custom image"/>
+  <img src="/images/deca3-medium-2.svg" alt="rocket boy"/>
 </p>
 ![](/images/deca3-medium-2.svg)
