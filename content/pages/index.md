@@ -546,7 +546,7 @@ seo:
         Основен курс „Стани Супергерой!” или как да получим от живота всичко,
         което искаме по системата на семената на Геше Майкъл Роуч.
     - name: 'twitter:image'
-      value: /images/2-supergeroi.svg
+      value: /images/2-supergeroi.png
       relativeUrl: true
 layout: advanced
 ---
