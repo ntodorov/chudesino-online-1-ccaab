@@ -534,7 +534,7 @@ seo:
         което искаме по системата на семената на Геше Майкъл Роуч.
       keyName: property
     - name: 'og:image'
-      value: /images/2-supergeroi.svg
+      value: /images/2-supergeroi.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
