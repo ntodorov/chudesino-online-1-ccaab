@@ -123,7 +123,7 @@ sections:
   - title: Маринела Арабаджиева
     subtitle: преподавател
     content: >
-      ![](/images/supergeroi3-head-mini-2.svg) Майка на две прекрасни дъщери;
+      ![](/images/supergeroi3-head-mini-2.svg) Семейна, майка на две прекрасни дъщери;
 
 
       ![](/images/boy-head-mini.svg) Висше музикално образование- свири на
