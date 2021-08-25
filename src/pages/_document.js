@@ -33,12 +33,14 @@ class MyDocument extends Document {
     render() {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
-                <Head>{this.helmetHeadComponents}</Head>
+                <Head>{this.helmetHeadComponents}
+                    <meta name="facebook-domain-verification" content="clk8ffvfj31gnyh14y0mkyxrogp2y2" />
+                </Head>
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
-                    <ScriptTag src={withPrefix('js/init.js')}/>
-                    <ScriptTag src={withPrefix('js/page-load.js')}/>
-                    <ScriptTag src={withPrefix('js/page-unload.js')}/>
+                    <ScriptTag src={withPrefix('js/init.js')} />
+                    <ScriptTag src={withPrefix('js/page-load.js')} />
+                    <ScriptTag src={withPrefix('js/page-unload.js')} />
                     <NextScript />
                 </body>
             </Html>

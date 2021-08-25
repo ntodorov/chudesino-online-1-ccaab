@@ -3,10 +3,17 @@ import { useEffect } from 'react';
 import Router from 'next/router';
 import '../sass/main.scss';
 
-
 function MyApp({ Component, pageProps }) {
 
-    useEffect(() => {
+    useEffect(async () => {
+        const { default: ReactPixel } = await import('react-facebook-pixel');
+        ReactPixel.init('2982840725332242', null, {
+            autoConfig: true,
+            debug: true,
+        });
+        ReactPixel.pageView();
+        ReactPixel.track("ViewContent")
+
         if (window.onNextjsAppDidMount) {
             window.onNextjsAppDidMount();
         }
