@@ -21,7 +21,7 @@
             {
                 "label": "Регистрация",
                 "style": "primary",
-                "url": "prices"
+                "url": "register"
             }
         ],
         "has_anncmnt": false

@@ -8,7 +8,7 @@ sections:
       ****
     actions:
       - label: Регистрирай се сега!
-        url: /prices
+        url: /register
         style: primary
     align: center
     padding_top: large
@@ -103,23 +103,7 @@ sections:
     align: center
     padding_top: none
     background_color: none
-  - type: cta_section
-    title: Стартираща цена - 95лв!
-    actions:
-      - label: Избери пакет
-        url: /prices
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: small
-    background_color: primary
-    background_image_opacity: 50
-    has_border: false
+  
   - title: Маринела Арабаджиева
     subtitle: преподавател
     content: >
@@ -339,115 +323,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: none
-  - type: grid_section
-    title: Цени и Пакети
-    subtitle: Промоционални
-    grid_items:
-      - title: Супергерой
-        subtitle: 'За всички, без обратна връзка.'
-        title_align: left
-        content: |
-          ***
 
-          ### ~~120 лв.~~ <p style="color:red">95 лв.</p>
-
-
-          *Стартирай със:*
-
-          *   Достъп до 8 урока.
-
-          <!---->
-
-          *   Достъп до 4 домашни работи.
-
-          <!---->
-
-          *   Достъп до чат в Телеграм.
-
-          <!---->
-
-          *   Две групови онлайн срещи на Смайл медитация
-
-
-
-
-          &nbsp;
-        content_align: left
-        actions:
-          - label: Избери
-            url: /order
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: Макси Супергерой
-        subtitle: 'За всички, които са решени да работят по тази методика.'
-        title_align: left
-        content: |
-          ***
-
-          ### ~~180 лв.~~ <p style="color:red">145 лв</p>
-
-          *Всичко от Супергерой, плюс:*
-
-          *   Две групови йога занятия.
-
-          <!---->
-
-          *   Изписване на личен план „4 стъпки” за достигане на Мечтата.
-
-          <!---->
-
-          *   Две сесии „Въпроси и отговори”.
-
-          <!---->
-
-          *   Смайл медитация-аудио запис.
-        content_align: left
-        actions:
-          - label: Избери
-            url: /order
-            style: primary
-        actions_align: left
-        actions_width: full-width
-      - title: Титан Супергерой
-        subtitle: 'За всички, които искат личен наставник'
-        title_align: left
-        content: |
-          ***
-
-          ### ~~230 лв.~~ <p style="color:red"> 185 лв. </p>
-
-          *Всичко от Макси Супергерой, плюс:*
-
-          *   Мини ръководство „Корелации по Мечтите”.
-
-          <!---->
-
-          *   Една лична сесия „Въпроси и отговори”.
-
-          <!---->
-
-          *   Индивидуална консултация с екперта.
-
-          <!---->
-
-          *   Самостоятелно йога занятие.
-        content_align: left
-        actions:
-          - label: Избери
-            url: /order
-            style: primary
-        actions_align: left
-        actions_width: full-width
-    grid_cols: three
-    grid_gap_horiz: small
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: small
-    padding_bottom: medium
-    background_color: primary
-    background_image: images/pricing-background.jpg
-    background_image_opacity: 10
   - type: grid_section
     title: Често задавани въпроси
     grid_items:
@@ -501,10 +377,10 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Стартираща цена - 95 лв! Промоцията свършва скоро...
+    title: Очаквайте скоро информация за Курса! И за да я получите първи - регистрирайте се...
     actions:
       - label: Регистрация
-        url: /prices
+        url: /register
         style: primary
         has_icon: true
         icon: arrow-right
