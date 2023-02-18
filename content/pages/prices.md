@@ -11,7 +11,7 @@ sections:
         content: |
           ***
 
-          ### ~~135 лв.~~ <p style="color:red">95 лв.</p>
+          ### ~~205 лв.~~ <p style="color:red">145 лв</p>
 
           *Стартирай със:*
 
@@ -41,7 +41,7 @@ sections:
         content: |
           ***
 
-          ### ~~205 лв.~~ <p style="color:red">145 лв</p>
+          ### ~~280 лв.~~ <p style="color:red"> 195 лв. </p>
 
           *Всичко от Супергерой, плюс:*
 
@@ -71,7 +71,7 @@ sections:
         content: |
           ***
 
-          ### ~~280 лв.~~ <p style="color:red"> 195 лв. </p>
+          ### ~~350 лв.~~ <p style="color:red"> 245 лв. </p>
 
           *Всичко от Макси Супергерой, плюс:*
 

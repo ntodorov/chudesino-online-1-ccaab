@@ -104,7 +104,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: Стартираща цена - 95 лв!
+    title: Стартираща цена - 145 лв!
     actions:
       - label: Избери пакет
         url: /prices
@@ -349,7 +349,7 @@ sections:
         content: |
           ***
 
-          ### ~~135 лв.~~ <p style="color:red">95 лв.</p>
+          ### ~~205 лв.~~ <p style="color:red">145 лв</p>
 
 
           *Стартирай със:*
@@ -385,7 +385,7 @@ sections:
         content: |
           ***
 
-          ### ~~205 лв.~~ <p style="color:red">145 лв</p>
+          ### ~~280 лв.~~ <p style="color:red"> 195 лв. </p>
 
           *Всичко от Супергерой, плюс:*
 
@@ -415,7 +415,7 @@ sections:
         content: |
           ***
 
-          ### ~~280 лв.~~ <p style="color:red"> 195 лв. </p>
+          ### ~~350 лв.~~ <p style="color:red"> 245 лв. </p>
 
           *Всичко от Макси Супергерой, плюс:*
 
@@ -501,7 +501,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Стартираща цена - 95 лв! Промоцията свършва скоро...
+    title: Стартираща цена - 145 лв! Промоцията свършва скоро...
     actions:
       - label: Регистрация
         url: /prices
